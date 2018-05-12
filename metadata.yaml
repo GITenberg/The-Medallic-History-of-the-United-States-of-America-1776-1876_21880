@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24948
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Florimond_Loubat
 description: 'Vol. I: Text. Vol. II: Plates.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21880#The-Medallic-History-of-the-United-States-of-America-1776-1876
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-06-20'
 gutenberg_type: Text
