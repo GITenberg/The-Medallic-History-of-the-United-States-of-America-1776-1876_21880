@@ -1,0 +1,39 @@
+_repo: The-Medallic-History-of-the-United-States-of-America-1776-1876_21880
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jacquemart, Jules-Ferdinand
+    alias: Jacquemart, Jules
+    birthdate: 1837
+    deathdate: 1880
+    gutenberg_agent_id: '24949'
+    url: http://www.gutenberg.org/2009/agents/24949
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loubat, J. F. (Joseph Florimond)
+    alias: Loubat, Joseph Florimond
+    birthdate: 1831
+    deathdate: 1927
+    gutenberg_agent_id: '24948'
+    url: http://www.gutenberg.org/2009/agents/24948
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Florimond_Loubat
+description: 'Vol. I: Text. Vol. II: Plates.'
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21880'
+  lccn: '67028353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcsh 'Medals -- United States'
+- !lcc 'CJ'
+title: The Medallic History of the United States of America 1776-1876
+url: http://www.gutenberg.org/ebooks/21880
